@@ -32,6 +32,7 @@ I've also made smaller Python programs, interactive websites, and experimented w
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Luau](https://img.shields.io/badge/Luau-00A2FF?style=flat-square&logo=robloxstudio&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ---
 
